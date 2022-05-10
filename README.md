@@ -2,6 +2,8 @@
 
 Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licence 1 à l’Université
 Nice Sophia Antipolis.
+![image](https://user-images.githubusercontent.com/103360562/167642063-4d57ddcc-2a76-4cc1-9397-3ae8430c971c.png)
+
 
 Après réflexion, plusieurs idées de projet nous sont venues à l’esprit, mais une seule a su retenir notre attention, c’est celle de la clé digitale.
 En effet, nous voulions présenter un projet qui serait accessible et utile à tous.
