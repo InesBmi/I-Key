@@ -12,6 +12,8 @@ En effet, nous voulions présenter un projet qui serait accessible et utile à t
 
 Actuellement, nous pouvons constater que les locations de logements en ligne sont en hausse, notamment sur la Côte d’Azur où les touristes font plus de rentabilité en passant leur séjour dans un appartement ou une villa louée plutôt que dans une chambre d’hôtel.
 
+![image](https://user-images.githubusercontent.com/103360562/167642877-ef3bf99a-3070-4bbc-adfd-d7ff66f73388.png)
+
 Ceci étant dit, mettons nous à la place d’un propriétaire de plusieurs biens immobiliers à travers la France ou encore, à travers le monde. Notre but serait d’en tirer profit en les mettant sur la plateforme de location AirBnb, qu’on ne présente plus.
 
 Se déplacer chaque jour pour donner les clés du logement à chaque locataire serait beaucoup trop fastidieux voir impossible.
