@@ -7,6 +7,8 @@ Nice Sophia Antipolis.
 ![image](https://user-images.githubusercontent.com/103360562/167642063-4d57ddcc-2a76-4cc1-9397-3ae8430c971c.png)
 
 
+Motivations :
+
 Après réflexion, plusieurs idées de projet nous sont venues à l’esprit, mais une seule a su retenir notre attention, c’est celle de la clé digitale.
 En effet, nous voulions présenter un projet qui serait accessible et utile à tous.
 
@@ -22,6 +24,28 @@ C’est ici que notre idée prend forme : la clé digitale est générée par le
 C’est à dire qu’à partir d’un téléphone, d’une tablette, d’une montre connectée, d’un ordinateur ou encore d’une Smart TV, la porte de notre logement peut s’ouvrir.
 
 Néanmoins, cela implique certains inconvénients : une clé différente à chaque utilisation, une sécurité, une solution de secours, une clé possédant une date d’expiration correspondant au nombre de jours loués, etc.
+
+Solutions techniques / Matériel :
+
+Discord sera le début de notre circuit, il nous servira à :
+- Générer la clé
+- Supprimer la clé
+- Vérifier la date d’expiration de la clé
+- Créer une fiche utilisateur
+- Vérifier la clé afin d’ouvrir la porte
+
+The Things Network sera le 2ème élément de notre circuit, il s’occupera de l’envoi du paquet permettant l’ouverture de la porte en utilisant une Gateway lorsque la clé, vérifiée par Discord, est valide.
+
+La carte LoRa sera le 3ème et dernier élément de notre circuit, il permettra :
+- la réception du paquet émis par la Gateway The Things Network
+- l’alimentation
+- l’ouverture de la porte.
+
+Schéma :
+
+![image](https://user-images.githubusercontent.com/103360562/167645240-f6c1c6a5-a536-473f-9c78-55736968110a.png)
+
+
 
 
 
