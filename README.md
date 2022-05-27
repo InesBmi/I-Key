@@ -1,7 +1,7 @@
 # I-Key
 
 Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licence 1 à l’Université
-Nice Sophia Antipolis.                                   
+Nice Côte d'Azur.                                   
 
 
 ![image](https://user-images.githubusercontent.com/103360562/170486301-415fcfb0-f2a1-40a1-aa45-9db8b1e55d9e.png)
